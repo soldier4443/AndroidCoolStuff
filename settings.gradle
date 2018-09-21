@@ -1,1 +1,1 @@
-include ':app', ':coolstuff'
+include ':coolstuff', ':todoit'
